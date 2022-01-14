@@ -6,7 +6,7 @@ using UnityEngine.AddressableAssets;
 
 public class tapCards : MonoBehaviour
 {
-    bool moveG = true;
+    bool moveG = false;
     public Transform Gallery;
     public GameObject content;
     public int nCards = 6;
